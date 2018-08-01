@@ -1,0 +1,32 @@
+
+.navbar {
+    padding: 10px;
+    width: 100%;
+    font-family: 'Arimo', sans-serif;
+    /*font-family: 'Playfair Display', serif;*/
+    font-size: 20px;
+    position: fixed;
+    align-items: center;
+    display: flex;
+}
+.navbar-nav {
+    text-align: center;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.nav-container {
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        background-color: transparent !important;
+    }
+}
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+}

@@ -1,0 +1,78 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.mainpage {
+    background-image: url("../images/IMG_0318.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.container1 {
+    padding-top: 200px;
+}
+
+.container2 {
+    padding: 170px;
+    height: 500px;
+    max-width: 900px;
+    text-align: center;
+    margin: auto;
+}
+
+.aboutme {
+    width: 100%;
+    background-color: rgb(172, 171, 169);
+}
+
+.circleimg {
+    border-radius: 50%;
+    height: 200px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    float: right;
+}
+
+.software {
+    width: 100%;
+    background-color: rgba(54, 53, 53, 0.774);
+}
+
+.container3 {
+    height: 500px;
+    max-width: 900px;
+    text-align: center;
+    margin: auto;
+}
+
+.stitle {
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
