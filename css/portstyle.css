@@ -25,13 +25,13 @@ html {
 .software {
   width: 100%;
   height: 100%;
-  background-color: rgba(168, 165, 165, 0.856);
 }
 
 .container1 {
   width: 100%;
   text-align: center;
   margin: auto;
+  background-color: rgba(168, 165, 165, 0.856);
 }
 
 .stitle {
