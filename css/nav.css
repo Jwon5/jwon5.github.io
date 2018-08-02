@@ -24,9 +24,11 @@
 @media (min-width: 992px) {
     .navbar {
         background-color: transparent !important;
+        z-index: 100;
     }
 }
 .navbar-fixed-top.scrolled {
     background-color: #fff !important;
     transition: background-color 200ms linear;
+    z-index: 100;
 }
