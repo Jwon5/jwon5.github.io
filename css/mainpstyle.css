@@ -68,6 +68,8 @@ li {
 }
 
 .software {
+    padding-top: 60px;
+    padding-bottom: 60px;
     width: 100%;
     background-color: rgba(54, 53, 53, 0.774);
 }
