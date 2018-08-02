@@ -30,15 +30,25 @@ li {
 
 .container2 {
     height: calc(100% - 120px);
-    width:100%;
+    width: 100%;
     text-align: center;
     margin: auto;
 }
 
-.aboutme {
-    width: 100%;
-    padding: 125px;
-    background-color: rgb(172, 171, 169);
+@media (min-width: 1000px) {
+    .aboutme {
+        width: 100%;
+        padding: 125px;
+        background-color: rgb(172, 171, 169);
+    }
+}
+
+@media (max-width: 1000px) {
+    .aboutme {
+        padding-right: 0px;
+        padding-left: 0px;
+        background-color: rgb(172, 171, 169);
+    }
 }
 
 .circleimg {
