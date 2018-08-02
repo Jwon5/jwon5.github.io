@@ -2,7 +2,7 @@ body,
 html {
   height: 100%;
   margin: 0;
-  
+  background-color: rgba(168, 165, 165, 0.856);
 }
 
 .whitespace {
@@ -23,15 +23,14 @@ html {
 }
 
 .software {
-  width: 100%;
-  height: 100%;
+margin:auto;
 }
 
 .container1 {
   width: 100%;
   text-align: center;
   margin: auto;
-  background-color: rgba(168, 165, 165, 0.856);
+  
 }
 
 .stitle {
