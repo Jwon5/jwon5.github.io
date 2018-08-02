@@ -42,18 +42,24 @@ html {
 .row {
   width: 100%
 }
-
-img {
-  height: 30%;
-  width: 30%;
-  float: left;
+img{
+  height: 40%;
+  width: 40%;
 }
-
+.rimg {
+  height: 35%;
+  width: 35%;
+  margin:10px;
+}
+.ptext, .imgtext{
+  width: 80%;
+  margin:auto;
+}
+.blankspace {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 h2 {
-  text-align: left;
-  margin-left: 50px;
-}
-.para .imgtext{
-  width:40%;
-  float:right;
+  text-align: center;
+
 }
