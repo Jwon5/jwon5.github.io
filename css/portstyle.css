@@ -9,7 +9,10 @@ html {
   background-color: white !important;
   height: 66px;
 }
-
+.info-container{
+  width:70%;
+  margin:auto;
+}
 .center {
   position: absolute;
   top: 50%;
@@ -22,15 +25,8 @@ html {
   text-align: center;
 }
 
-.software {
-margin:auto;
-}
-
 .container1 {
-  width: 100%;
-  text-align: center;
-  margin: auto;
-  
+  text-align: center;  
 }
 
 .stitle {

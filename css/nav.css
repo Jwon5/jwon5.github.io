@@ -1,7 +1,9 @@
 
 .navbar {
     padding: 10px;
+    padding-left: 70px;
     width: 100%;
+    margin:auto;
     font-family: 'Arimo', sans-serif;
     /*font-family: 'Playfair Display', serif;*/
     font-size: 20px;

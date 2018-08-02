@@ -23,23 +23,28 @@ li {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
-
+.info-container{
+    width:70%;
+    margin:auto;
+}
 .container1 {
     padding-top: 200px;
 }
 
 .container2 {
     height: calc(100% - 120px);
-    width: 100%;
     text-align: center;
     margin: auto;
 }
-
+.aboutme{
+    background-color: rgb(172, 171, 169);
+}
 @media (min-width: 1000px) {
     .aboutme {
         width: 100%;
-        padding: 125px;
-        background-color: rgb(172, 171, 169);
+        padding-top: 60px;
+        padding-bottom: 60px;
+
     }
 }
 
@@ -47,7 +52,6 @@ li {
     .aboutme {
         padding-right: 0px;
         padding-left: 0px;
-        background-color: rgb(172, 171, 169);
     }
 }
 
