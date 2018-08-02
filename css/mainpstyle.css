@@ -25,19 +25,19 @@ li {
 }
 
 .container1 {
-    padding: 150px;
+    padding-top: 200px;
 }
 
 .container2 {
-    padding: 170px;
-    height: calc(100% - 500px);
-    max-width: 900px;
+    height: calc(100% - 120px);
+    width:100%;
     text-align: center;
     margin: auto;
 }
 
 .aboutme {
     width: 100%;
+    padding: 120px;
     background-color: rgb(172, 171, 169);
 }
 
