@@ -30,7 +30,7 @@ li {
 
 .container2 {
     padding: 170px;
-    height: 30%;
+    height: calc(100% - 500px);
     max-width: 900px;
     text-align: center;
     margin: auto;
@@ -56,7 +56,7 @@ li {
 }
 
 .container3 {
-    height: 30%;
+    height: calc(100% - 500px);
     max-width: 900px;
     text-align: center;
     margin: auto;
