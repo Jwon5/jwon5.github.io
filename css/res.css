@@ -4,13 +4,6 @@ html {
   margin: 0;
 }
 
-.center {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%);
-}
-
 .info-container {
   width: 70%;
   margin: auto;
@@ -20,4 +13,5 @@ html {
   padding-top: 60px;
   padding-bottom: 60px;
   margin: auto;
+  align-items: center;
 }
