@@ -91,6 +91,13 @@ h1 {
     font-family: 'Fjalla One', sans-serif;
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size: 60px;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
 }
 
 .sp {
