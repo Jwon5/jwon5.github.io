@@ -9,6 +9,7 @@ li {
     padding: 10px;
 }
 
+/* Front */
 .mainpage {
     background-image: url("../images/IMG_0318.JPG");
     height: 100%;
@@ -33,6 +34,7 @@ li {
     padding-top: 100px;
 }
 
+/* Second */
 .container2 {
     height: calc(100% - 120px);
     text-align: center;
@@ -69,6 +71,7 @@ li {
     float: right;
 }
 
+/* Third */
 .software {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -94,7 +97,8 @@ h1 {
     text-align: center;
     font-size: 60px;
 }
-h3{
+
+h3 {
     font-family: 'Fjalla One', sans-serif;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -108,4 +112,24 @@ h3{
 p {
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
+}
+
+/* footer */
+footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background: rgb(32, 32, 32);
+}
+
+.fab {
+    float: right;
+    font-size: 30px;
+    color: white;
+    padding-left: 5px;
+    
+}
+
+.copyright {
+    text-align: left;
 }
