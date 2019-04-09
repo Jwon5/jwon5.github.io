@@ -14,8 +14,14 @@
     text-align: center;
 }
 
+@media (min-width: 992px) {
+    .navbar-brand {
+        padding-left: 20px;
+    }
+}
+
 .navbar-brand {
-    padding-left: 50px;
+    padding-left: 20px;
 }
 
 .nav-item {
@@ -30,9 +36,6 @@
     .navbar {
         background-color: transparent !important;
         z-index: 100;
-    }
-    .navbar-brand{
-        padding-left: 20px;
     }
 }
 
