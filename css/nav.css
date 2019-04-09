@@ -1,8 +1,7 @@
-
 .navbar {
     padding: 10px;
     width: 100%;
-    margin:auto;
+    margin: auto;
     font-family: 'Arimo', sans-serif;
     /*font-family: 'Playfair Display', serif;*/
     font-size: 20px;
@@ -10,11 +9,13 @@
     align-items: center;
     display: flex;
 }
+
 .navbar-nav {
     text-align: center;
 }
+
 .navbar-brand {
-padding-left: 50px;
+    padding-left: 50px;
 }
 
 .nav-item {
@@ -30,12 +31,17 @@ padding-left: 50px;
         background-color: transparent !important;
         z-index: 100;
     }
+    .navbar-brand{
+        padding-left: 20px;
+    }
 }
+
 .navbar-fixed-top.scrolled {
     background-color: #fff !important;
     transition: background-color 200ms linear;
     z-index: 100;
 }
+
 input[type="x-icon"] {
     border-radius: 50%;
 }
