@@ -8,10 +8,12 @@ body {
   background-color: white !important;
   height: 66px;
 }
-.info-container{
-  width:70%;
-  margin:auto;
+
+.info-container {
+  width: 70%;
+  margin: auto;
 }
+
 .center {
   position: absolute;
   top: 50%;
@@ -25,34 +27,39 @@ body {
 }
 
 .container1 {
-  padding-top:  60px;
+  padding-top: 60px;
   padding-bottom: 60px;
-  text-align: center;  
+  text-align: center;
 }
 
 .stitle {
   text-align: left;
-  margin-left: 30px;
 }
 
 .row {
   width: 100%
 }
-img{
+
+img {
   width: 40%;
 }
+
 .rimg {
   width: 25%;
-  margin:10px;
+  margin: 10px;
 }
-.ptext, .imgtext{
+
+.ptext,
+.imgtext {
   width: 80%;
-  margin:auto;
+  margin: auto;
 }
+
 .blankspace {
   padding-top: 60px;
   padding-bottom: 50px;
 }
+
 h2 {
   text-align: center;
 
