@@ -1,12 +1,11 @@
 body,
 html {
-  height: 100% !important;
-  width: 100%;
+  height: 100%;
   overflow: hidden;
   margin: 0px;
   background-color: white;
 }
-embed{
+#plugin{
   padding-top: 60px;
   width: 100% !important;
   height: 100% !important;
