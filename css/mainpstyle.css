@@ -113,3 +113,29 @@ p {
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
 }
+
+.readmore {
+    text-align: center;
+    position: absolute;
+    left: calc(47% - 54px);
+    top: calc(100% - 120px);
+    cursor: pointer;
+    color:  white;
+    font-size: 3em;
+}
+
+button {
+    border: none;
+    background: none;
+    text-transform: none;
+    color: white;
+}
+
+button:active {
+    outline: none;
+    border: none;
+}
+
+button:focus {
+    outline: 0;
+}
